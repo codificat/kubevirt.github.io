@@ -101,7 +101,7 @@ Kubernetes and KubeVirt on a Fedora Linux host.  Yes!  It can be done!</p>
         alt="Upload disk image">
     </div>
     <br><br>
-  </li><li>Verify the PersistentVolumeClaim created via the DataVolume image
+  </li><li>Verify the PersistentVolumeClaim created via the DataVolume
   image upload in the previous step<br>
     <code>
       kubectl describe pvc/testvm
